@@ -1,0 +1,5 @@
+module Cairo [system] {
+  header "shim.h"
+  link "cairo"
+  export *
+}
